@@ -1,0 +1,72 @@
+.a
+{background-color:pink;}
+.b {
+    width:100%;height:150px;background-color:whitesmoke;
+     background-image:url(pic23.jpg);
+}
+.c
+{
+    float:left;
+    
+}
+.d
+{
+    width:200; height:120;border-radius: 70%;
+}
+.e
+{
+    float:left;margin-left:350px;
+   
+}
+.f
+{
+    color:blueviolet;align:center;
+}
+.g
+{
+    width:100%;height:400px;
+}
+.aa{
+    width:100%;height:70px;background-color:thistle;
+}
+.bb{
+    width:60%;background-color:orchid;float: left;
+}
+.cc
+{width:40%;background-color:blueviolet;float: right;color:salmon;}
+
+.h{
+    width:20%;height:400px;float:left;background-color:lightpink;
+}
+.i{
+    width:100%; height:100px;
+}
+.aaa{
+    width:80%;height:400px;background-color:lightcyan;float:right;
+}
+.bbb{
+    width:80%;height:200px;background-color:skyblue;
+}
+.aa1{
+    height:180px;width:24%;margin-left:4%;margin-right:4%;margin-top: 10px;
+    margin-bottom: 10px;
+}
+.aa2
+{
+    height:180px;width:24%;margin-left:2%;margin-bottom: 10px;margin-top: 10px;}
+.aa3{
+    height:180px;width:24%;margin-left:4%;margin-bottom:10px;margin-top: 10px;
+}
+.aaaa{
+    width:80%;height:200px;background-color:peachpuff;
+}
+.bb1{
+    height:180px;width:24%;margin-left:4%;margin-right:4%;margin-top: 10px;
+    margin-bottom: 10px;
+}
+.bb2{
+    height:180px;width:24%;margin-left:2%;margin-top: 10px;margin-bottom: 10px;
+}
+.bb3{
+    height:180px;width:24%;margin-left:4%;margin-top: 10px;margin-bottom: 10px;
+}
