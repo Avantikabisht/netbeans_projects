@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script type="text/javascript">
+            function callservlet(){
+                var servletname=document.getdata.fetchdata.value;
+                if(servletname=="")
+                {
+                    alert("no value");
+                    return false;
+                }
+                else
+                {
+                    alert("value"+servletname);
+                    document.location.href="sa";
+                    return false;
+                   
+                }
+              
+            }</script>
+    </head>
+    <body>
+         <form name="getdata" action="sa" method="POST">
+        number: <input type="number" name="number" />
+        <br>
+        <input type="button" name="fetchdata" value="same" onclick="return callservlet();">
+               </form>
+    </body>
+</html>
